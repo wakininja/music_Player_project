@@ -473,7 +473,7 @@ input[type=radio] {
 }
 
 .latest-release-img-container {
-    background-image: url(../../songs/latest-release-onism.jpg);
+    background-image: url(./assets/songs/latest-release-onism.jpg);
     background-size: cover;
     height: 5rem;
     width: 5rem;
@@ -658,7 +658,7 @@ input[type=radio] {
     left: 0;
     right: 0;
     bottom: 0;
-    background-image: url(../../songs/ed-sheeran.jpg);
+    background-image: url(./assets/songs/ed-sheeran.jpg);
     background-position: center;
     background-size: 100% 100%;
     background-size: cover;
@@ -667,23 +667,23 @@ input[type=radio] {
 }
 
 .popular-artists-2 {
-    background-image: url(../../songs/cold-play.jpg) !important;
+    background-image: url(./assets/songs/cold-play.jpg) !important;
 }
 
 .popular-artists-3 {
-    background-image: url(../../songs/zayn.jpg) !important;
+    background-image: url(./assets/songs/zayn.jpg) !important;
 }
 
 .popular-artists-4 {
-    background-image: url(../../songs/charlie-puth.jpg) !important;
+    background-image: url(./assets/songs/charlie-puth.jpg) !important;
 }
 
 .popular-artists-5 {
-    background-image: url(../../songs/imagine-dragon.jpg) !important;
+    background-image: url(./assets/songs/imagine-dragon.jpg) !important;
 }
 
 .popular-artists-6 {
-    background-image: url(../../songs/bruno-mars.jpg) !important;
+    background-image: url(./assets/songs/bruno-mars.jpg) !important;
 }
 
 .popular-artists>a {
@@ -735,7 +735,7 @@ input[type=radio] {
     left: 0;
     right: 0;
     bottom: 0;
-    background-image: url(../images/stations-img.png);
+    background-image: url(./assets/images/stations-img.png);
     background-size: 100% 100%;
     background-repeat: no-repeat;
     background-position: center;
@@ -766,7 +766,7 @@ input[type=radio] {
     left: 0;
     right: 0;
     bottom: 0;
-    background-image: url(../images/love.jpg);
+    background-image: url(./assets/images/love.jpg);
     background-position: center;
     background-size: 100% 100%;
     background-size: cover;
@@ -774,23 +774,23 @@ input[type=radio] {
 }
 
 .img-2 {
-    background-image: url(../images/retro.png) !important;
+    background-image: url(./assets/images/retro.png) !important;
 }
 
 .img-3 {
-    background-image: url(../images/chill.jpg) !important;
+    background-image: url(./assets/images/chill.jpg) !important;
 }
 
 .img-4 {
-    background-image: url(../images/workout.jpg) !important;
+    background-image: url(./assets/images/workout.jpg) !important;
 }
 
 .img-5 {
-    background-image: url(../images/rock.jpg) !important;
+    background-image: url(./assets/images/rock.jpg) !important;
 }
 
 .img-6 {
-    background-image: url(../images/pop.jpg) !important;
+    background-image: url(./assets/images/pop.jpg) !important;
 }
 
 .stations-para {
@@ -821,7 +821,7 @@ input[type=radio] {
 .genre-img-container {
     width: 32%;
     height: 9rem;
-    background-image: url(../images/party.jpg);
+    background-image: url(./assets/images/party.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: 100% 100%;
@@ -850,11 +850,11 @@ input[type=radio] {
 }
 
 .genre-img-2 {
-    background-image: url("../images/electronic.jpg");
+    background-image: url("./assets/images/electronic.jpg");
 }
 
 .genre-img-3 {
-    background-image: url("../images/road-trip.jpg");
+    background-image: url("./assets/images/road-trip.jpg");
 }
 
 
@@ -936,7 +936,7 @@ footer {
     height: 4rem;
     width: 4rem;
     margin: 1vh;
-    background: url("../queue/peaches.jpg") center no-repeat;
+    background: url("./assets/queue/peaches.jpg") center no-repeat;
     background-size: contain;
 }
 
