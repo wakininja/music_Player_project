@@ -1,4 +1,3 @@
-/* The Following code is written by Dhruv Arora (github.com/itsdhruvarora) */
 /* set size of root element */
 
 html {
@@ -442,10 +441,11 @@ aside {
 
 #play-btn-checkbox1:checked~.for-responsiveness>main>.latest-release-container div:nth-child(even) div:first-child>.song-name-and-img-container>.latest-release-img-container>label>i.pause-1,
 #play-btn-checkbox2:checked~.for-responsiveness>main>.latest-release-container div:nth-child(even) div:last-child>.song-name-and-img-container>.latest-release-img-container>label>i.pause-2,
-#play-btn-checkbox3:checked~.for-responsiveness>main>.latest-release-container div:last-child div:first-child>.song-name-and-img-container>.latest-release-img-container>label>i.pause-3,
+#play-btn-checkbox3:checked~.for-responsiveness>main>.latest-release-container div:last-child div:first-child>.song-name-and-img-container>.latest-release-img-container>label>i.pause-3
 {
     height: 1rem;
 }
+
 
 .song-name {
     color: #FCFCFD;
